@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "username",
+            "password": "password"
+        }
+    ],
+    "games": [
+        {
+            "id": 1,
+            "player1ID": 1,
+            "player2ID": 1,
+            "officiatorID": 1,
+            "type": "pingpong",
+            "winnerID": 1,
+            "rounds": [
+                [0, 0],
+                [1, 0]
+            ]
+        }
+    ]
+}
