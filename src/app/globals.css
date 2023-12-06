@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text {
+    color: rgb(240, 240, 240);
+}
+.background {
+    background-color: rgb(0, 0, 0);
+}
+.primary {
+    background-color: rgb(169, 234, 196);
+}
+.secondary {
+    background-color: rgb(27, 39, 32);
+}
+.accent {
+    background-color: rgb(255, 61, 64);
+}
