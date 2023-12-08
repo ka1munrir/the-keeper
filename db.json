@@ -3,7 +3,13 @@
         {
             "id": 1,
             "username": "username",
-            "password": "password"
+            "password": "password",
+            "basketballWins": 0,
+            "basketballLosses": 0,
+            "futballWins": 0,
+            "futballLosses": 0,
+            "pingpongWins": 0,
+            "pingpongLosses": 0
         }
     ],
     "games": [
